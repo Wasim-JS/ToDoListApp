@@ -1,0 +1,42 @@
+body {
+    font-size: 15pt;
+  background-color: yellow;
+  color: red;
+}
+
+.input{
+  width: 60%;
+  margin: auto;
+}
+.task{
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin-top: 50px;
+}
+
+.cmpasks{
+  margin-top: 50px;
+}
+.doneTasks{
+  margin-top: 30px;
+}
+#addbtn{
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+}
+
+input{
+  padding:5px;
+  border-radius:30px;
+  border-color:white;
+}
+
+.addbtn{
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+  
